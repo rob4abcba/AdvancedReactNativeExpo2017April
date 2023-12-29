@@ -2,9 +2,9 @@
 
 Caution: The bulk of this repo was written and originally committed way back in 2017 April. These were advanced React Native concepts back in that time. For each topic, you should search <method> vs <alternatives> to see whether a newer/better way has since been found.
 
-Section1: Expo Setup
-Section1.4: Why Expo?
-Section2: Animations with React Native
+Section1: Expo Setup  
+Section1.4: Why Expo?  
+Section2: Animations with React Native  
 Section2.12: Swipe Deck Props
 Section3: Handling Gestures
 Section3.20: Dragging a Card
