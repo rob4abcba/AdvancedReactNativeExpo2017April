@@ -26,15 +26,15 @@ Section8: ClientSide OneTimePasswords
 Section8.73: Firebase Auth with a JWT  
 Section9: Bringing it All Together  
 Section9.86: Class vs Instance Properties  
-Section10: Facebook Authentication  
+Section10: Facebook Authentication (using Expo)  
 Section10.98: Using Async Storage  
 Section10.101: Testing Facebook's Login Flow  
-Section11: MapViews on React Native  
+Section11: MapViews on React Native (using Expo)  
 Section11.112: Indeed API Key  
 Section11.113: The Indeed Jobs API  
 Section11.118: The Jobs Reducer  
 Section12: Offline Data Persistence  
-Section12.141: Push Notification and Data Persistence  
+Section12.141: Push Notification and Data Persistence (using Expo)  
 Section12.142: Persisting Application State  
 Section12.143: Wiring Up Redux Persist  
 Section13: Push Notifications  
